@@ -1,8 +1,8 @@
 ### Hi there, My name is Filipus Adriel Manik 👋
 
 - 🔭 I am currently studying at Mulawarman University majoring in Informatics
-- 🌱 I'm currently learning about Mobile development
-- 💬 Feel free to ask me about Mobile Development
+- 🌱 I'm currently learning about Mobile development, Machine learning, and IOT projects
+- 💬 Feel free to ask me about Mobile Development and IOT projects
 - 📫 How to reach me: manikfilip03@gmail.com
 <!-- - ⚡ Fun fact: I'm Freelance! -->
 
